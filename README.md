@@ -1,0 +1,2 @@
+# Bluetooth Controlled RC 
+I got my start in robotics by tinkering with Bluetooth-controlled RC cars, combining my love for tech with the excitement of hands-on control. Using an Arduino and a Bluetooth module, I programmed the car to respond to commands sent from my phone, allowing me to steer, accelerate, and stop remotely. This project brought the thrill of driving into my hands and opened my eyes to the endless possibilities in robotics. It’s a simple setup with big impact, sparking my passion for creating interactive and responsive machines.
